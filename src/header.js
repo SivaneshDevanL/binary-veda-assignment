@@ -14,6 +14,8 @@ export default function Header({img}){
         <h3>Enterprise</h3>
         <h3>Pricing</h3>
         <h3>Sign in</h3>
-        <button id='sign'>Sign up free</button></div></div>
+        <button id='sign'>Sign up free</button></div>
+        <i id='line' class="fas fa-grip-lines"></i>
+        </div>
     )
 }

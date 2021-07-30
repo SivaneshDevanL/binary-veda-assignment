@@ -8,8 +8,10 @@ export default function Illustration({img1}){
         <div id='p1'>
         <p>Create amazing tools and integrations for 1 million users or customise Marvel for your team.</p>
         </div>
+        <div id='button'>
         <button id='submit'>Submit your app</button>
         <button id='submit1'>View API Docs</button></div>
+        </div>
         <img id='img1' src={img1} alt='illustration'/>
     </div>
     )

@@ -4,7 +4,6 @@ export default function Footer({img}){
     return(
         <>
         <div id='flex9'>
-            <img id='img2' src={img} alt='logo'/>
             <div>
                 <h4>Overview</h4>
                 <p>Why Marvel</p>
