@@ -27,7 +27,6 @@ export default function App(){
 //         <SlackBot img6={img6}/>
 //         <Footer img={img}/>
          <body>
-    <i className="fas fa-arrow-left" onclick="scrol()"></i>
  <div className="pricing-table">
    <div className="box">
        <h5>Basic</h5>
@@ -184,7 +183,6 @@ export default function App(){
     <button>Sign Up</button>
  </div>
 </div>
-<i className="fas fa-arrow-right"></i>
 </body>
 
 
