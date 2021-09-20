@@ -18,7 +18,6 @@ import './veda.css';
 
 export default function App(){
     return(
-        <>
         {/*     <Header img={img}/>
         <Illustration img1={img1}/>
         <Tag/>
@@ -26,7 +25,6 @@ export default function App(){
         <Showcase img5={img5}/>
         <SlackBot img6={img6}/>
         <Footer img={img}/> */}
-         <body>
  <div className="pricing-table">
    <div className="box">
        <h5>Basic</h5>
@@ -183,9 +181,5 @@ export default function App(){
     <button>Sign Up</button>
  </div>
 </div>
-</body>
-
-
-        </>
     )
 }
