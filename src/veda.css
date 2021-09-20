@@ -247,10 +247,6 @@ h3{
         margin-left: 14vw;
     }
 } */
-body{
-    display: flex;
-    align-items: center;
-  }
   div{
     background-color: cadetblue;
     display: flex;
