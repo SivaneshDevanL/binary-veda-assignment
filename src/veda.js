@@ -17,7 +17,7 @@ import './veda.css';
 // import Footer from './footer';
 
 export default function App(){
-    return(
+    return(<>
         {/*     <Header img={img}/>
         <Illustration img1={img1}/>
         <Tag/>
@@ -25,7 +25,6 @@ export default function App(){
         <Showcase img5={img5}/>
         <SlackBot img6={img6}/>
         <Footer img={img}/> */}
-        <>
  <div className="pricing-table">
    <div className="box">
        <h5>Basic</h5>
