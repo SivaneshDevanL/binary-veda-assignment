@@ -19,13 +19,13 @@ import Footer from './footer';
 export default function App(){
     return(
         <>
-//         <Header img={img}/>
-//         <Illustration img1={img1}/>
-//         <Tag/>
-//         <ApiTeam img2={img2} img3={img3} img4={img4}/>
-//         <Showcase img5={img5}/>
-//         <SlackBot img6={img6}/>
-//         <Footer img={img}/>
+        {/*     <Header img={img}/>
+        <Illustration img1={img1}/>
+        <Tag/>
+        <ApiTeam img2={img2} img3={img3} img4={img4}/>
+        <Showcase img5={img5}/>
+        <SlackBot img6={img6}/>
+        <Footer img={img}/> */}
          <body>
  <div className="pricing-table">
    <div className="box">
