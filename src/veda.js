@@ -19,13 +19,175 @@ import Footer from './footer';
 export default function App(){
     return(
         <>
-        <Header img={img}/>
-        <Illustration img1={img1}/>
-        <Tag/>
-        <ApiTeam img2={img2} img3={img3} img4={img4}/>
-        <Showcase img5={img5}/>
-        <SlackBot img6={img6}/>
-        <Footer img={img}/>
+//         <Header img={img}/>
+//         <Illustration img1={img1}/>
+//         <Tag/>
+//         <ApiTeam img2={img2} img3={img3} img4={img4}/>
+//         <Showcase img5={img5}/>
+//         <SlackBot img6={img6}/>
+//         <Footer img={img}/>
+         <body>
+    <i className="fas fa-arrow-left" onclick="scrol()"></i>
+ <div className="pricing-table">
+   <div className="box">
+       <h5>Basic</h5>
+       <table>
+           <tr>
+               <td className="price">$9</td>
+               <td>/month</td>
+           </tr>
+       </table>
+       <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+       <button>Sign Up</button>
+   </div>
+   <div className="box">
+       <h5>Basic</h5>
+       <table>
+           <tr>
+               <td className="price">$9</td>
+               <td>/month</td>
+           </tr>
+       </table>
+       <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+       <button>Sign Up</button>
+   </div>
+   <div className="box">
+       <h5>Basic</h5>
+       <table>
+           <tr>
+               <td className="price">$9</td>
+               <td>/month</td>
+           </tr>
+       </table>
+       <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+       <button>Sign Up</button>
+   </div>
+   <div className="box">
+       <h5>Basic</h5>
+       <table>
+           <tr>
+               <td className="price">$9</td>
+               <td>/month</td>
+           </tr>
+       </table>
+       <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+       <button>Sign Up</button>
+   </div>
+   <div className="box">
+      <h5>Basic</h5>
+      <table>
+          <tr>
+              <td className="price">$5</td>
+              <td>/month</td>
+          </tr>
+      </table>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+      <button>Sign Up</button>
+  </div>
+  <div className="box">
+   <h5>Basic</h5>
+   <table>
+       <tr>
+           <td className="price">$9</td>
+           <td>/month</td>
+       </tr>
+   </table>
+   <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+   <button>Sign Up</button>
+</div>
+<div className="box">
+   <h5>Basic</h5>
+   <table>
+       <tr>
+           <td className="price">$9</td>
+           <td>/month</td>
+       </tr>
+   </table>
+   <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+   <button>Sign Up</button>
+</div>
+<div className="box">
+   <h5>Basic</h5>
+   <table>
+       <tr>
+           <td className="price">$9</td>
+           <td>/month</td>
+       </tr>
+   </table>
+   <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+   <button>Sign Up</button>
+</div>
+<div className="box">
+   <h5>Basic</h5>
+   <table>
+       <tr>
+           <td className="price">$9</td>
+           <td>/month</td>
+       </tr>
+   </table>
+   <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+   <button>Sign Up</button>
+</div>
+<div className="box">
+   <h5>Basic</h5>
+   <table>
+       <tr>
+           <td className="price">$9</td>
+           <td>/month</td>
+       </tr>
+   </table>
+   <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+   <button>Sign Up</button>
+</div>
+<div className="box">
+   <h5>Basic</h5>
+   <table>
+       <tr>
+           <td className="price">$9</td>
+           <td>/month</td>
+       </tr>
+   </table>
+   <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+   <button>Sign Up</button>
+</div>
+<div className="box">
+   <h5>Basic</h5>
+   <table>
+       <tr>
+           <td className="price">$9</td>
+           <td>/month</td>
+       </tr>
+   </table>
+   <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+   <button>Sign Up</button>
+</div>
+<div className="box">
+   <h5>Basic</h5>
+   <table>
+       <tr>
+           <td className="price">$9</td>
+           <td>/month</td>
+       </tr>
+   </table>
+   <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+   <button>Sign Up</button>
+</div>
+<div className="box">
+    <h5>Basic</h5>
+    <table>
+        <tr>
+            <td className="price">$8</td>
+            <td>/month</td>
+        </tr>
+    </table>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+    <button>Sign Up</button>
+ </div>
+</div>
+<i className="fas fa-arrow-right"></i>
+</body>
+
+
         </>
     )
 }
