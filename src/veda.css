@@ -247,19 +247,17 @@ h3{
         margin-left: 14vw;
     }
 } */
-  div{
-    background-color: cadetblue;
-    display: flex;
-    justify-content: space-between;
-    padding: 1rem;
-    color:white;
-  }
+
   .price{
     font-size: xx-large;
   }
   .pricing-table{
     overflow: auto;
-    gap: 1rem;
+        background-color: cadetblue;
+    display: flex;
+        gap: 1rem;
+    padding: 1rem;
+    color:white;
   }
   .pricing-table::-webkit-scrollbar {
     display: none;
@@ -275,6 +273,7 @@ h3{
     margin: auto;
   }
   .pricing-table div{
+      padding:3vw;
     border: 1px solid black;
   }
   button{
