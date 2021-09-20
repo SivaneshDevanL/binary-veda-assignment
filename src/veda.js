@@ -25,6 +25,7 @@ export default function App(){
         <Showcase img5={img5}/>
         <SlackBot img6={img6}/>
         <Footer img={img}/> */}
+        <>
  <div className="pricing-table">
    <div className="box">
        <h5>Basic</h5>
@@ -181,5 +182,6 @@ export default function App(){
     <button>Sign Up</button>
  </div>
 </div>
+        </>
     )
 }
